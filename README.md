@@ -6,7 +6,6 @@ This project implements a neural network model for regression using Keras. The g
 
 - [Project Overview](#project-overview)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Dataset](#dataset)
 - [Model Architecture](#model-architecture)
 - [Hyperparameter Tuning](#hyperparameter-tuning)
@@ -48,11 +47,6 @@ To run the project, follow these steps:
 2. **Run the Model:** Execute the script to train and evaluate the neural network model.
 3. **View Results:** The script will output the R², MAPE, and the best hyperparameter configuration.
 
-### Running the Script
-
-```bash
-python regression_model.py
-```
 
 ## Dataset
 
